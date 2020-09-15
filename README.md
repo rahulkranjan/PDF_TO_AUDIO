@@ -30,7 +30,7 @@ pip install gTTS
 
 # How to check program ?
 
-Download the pdf file and change the path in code.
+Download the [pdf](https://github.com/rahulkranjan/PDF_TO_AUDIO/blob/master/sample.pdf) file and change the path in code.
 
 # Want to contribute?
 
