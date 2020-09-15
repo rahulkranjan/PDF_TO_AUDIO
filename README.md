@@ -1,4 +1,4 @@
-# PDF_TO_AUDIO
+# Pdf to audio converter
 
 A simple way to convert _PDF_ into _AUDIO_ using **python**
 
@@ -7,8 +7,8 @@ A simple way to convert _PDF_ into _AUDIO_ using **python**
 #### The task can be simply divided into 3 steps:
 
 1. Extract text from PDF.
-2. Convert the text in binary
-3. Save it in mp3 format
+2. Convert the text in binary code.
+3. Save it in mp3 format.
 
 # Dependencies
 
@@ -18,8 +18,22 @@ A simple way to convert _PDF_ into _AUDIO_ using **python**
 pip install PyPDF2
 ```
 
-- [gTTs](https://pypi.org/project/gTTS/ "Google Text-to-Speech")
+- [gTTS](https://pypi.org/project/gTTS/ "Google Text-to-Speech")
 
 ```python
 pip install gTTS
 ```
+
+# What to do next?
+
+- Create a Python package for this project.
+
+# How to check program ?
+
+Download the pdf file and change the path in code.
+
+# Want to contribute?
+
+- Fork >> Clone >> Create branch >> Commet changes >> Push >> Submit request!
+
+#ENJOY
