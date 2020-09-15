@@ -34,6 +34,6 @@ Download the [pdf](https://github.com/rahulkranjan/PDF_TO_AUDIO/blob/master/samp
 
 # Want to contribute?
 
-- Fork >> Clone >> Create branch >> Commet changes >> Push >> Submit request!
+- Fork >> Clone >> Create branch >> Commit changes >> Push >> Submit request!
 
-#ENJOY
+# ENJOY
